@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @kt1238
-- 👀 I’m interested in game development with Python.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python related stuff.
-- 📫 How to reach me: Email - kevinthomaskt1984@gmail.com
+Hi there, I'm Kevin Thomas
+
+I'm a Masters Student @ NTU
+
+I love making fun, creative ideas come to life through events like hackathons
+
 
 
 <!---

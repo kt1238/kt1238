@@ -4,7 +4,7 @@ I'm a Masters Student @ NTU
 
 I love making fun, creative ideas come to life through events like hackathons
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!---
 kt1238/kt1238 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
